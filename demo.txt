@@ -1,2 +1,4 @@
 hello git
 its first file
+line1 after the first commit
+line2 after the first commit
